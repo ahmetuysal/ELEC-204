@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------
--- Company: Koç University
+-- Company: KoÃ§ University
 -- Engineer: Ahmet Uysal - MERVE KARAKAS
 -- 
 -- Create Date:    18:03:15 10/15/2017 
